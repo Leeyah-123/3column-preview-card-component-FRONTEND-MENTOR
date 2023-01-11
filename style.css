@@ -85,7 +85,7 @@ h3 {
 
 .card__button {
   margin: 0;
-  padding: 1em 2.5em;
+  padding: 0.7em 2.5em;
   border-radius: 25px;
   border: none;
   color: var(--color);
