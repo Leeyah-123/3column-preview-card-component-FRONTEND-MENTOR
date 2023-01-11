@@ -134,12 +134,12 @@ h3 {
 
 @media (min-width: 1440px) {
   body {
-    display: grid;
-    place-items: center;
+    display: flex;
+   justify-content: center;
   }
 
   .container {
-    margin: 0 auto;
+    margin: 13em auto;
     flex-direction: row;
   }
 
