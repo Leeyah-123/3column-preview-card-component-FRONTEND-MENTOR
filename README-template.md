@@ -27,8 +27,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Leeyah-123/3column-preview-card-component-FRONTEND-MENTOR)
-- Live Site URL: [Add live site URL here](https://3column-preview-card-component-frontend-mentor.vercel.app/)
+- Github code URL: [https://github.com/Leeyah-123/3column-preview-card-component-FRONTEND-MENTOR](https://github.com/Leeyah-123/3column-preview-card-component-FRONTEND-MENTOR)
+- Solution URL: [https://www.frontendmentor.io/solutions/3column-preview-card-component-rlZzuxTHQr](https://www.frontendmentor.io/solutions/3column-preview-card-component-rlZzuxTHQr)
+- Live Site URL: [https://3column-preview-card-component-frontend-mentor.vercel.app/](https://3column-preview-card-component-frontend-mentor.vercel.app/)
 
 ## My process
 
