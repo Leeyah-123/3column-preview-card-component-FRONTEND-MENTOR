@@ -139,7 +139,7 @@ h3 {
   }
 
   .container {
-    margin: 12em auto;
+    margin: calc(12em - 2px) auto;
     flex-direction: row;
   }
 
