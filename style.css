@@ -51,7 +51,7 @@ h3 {
 }
 
 .container {
-  display: flex;Add live site URL here
+  display: flex;
 }
 
 .card__header-icon {
@@ -135,18 +135,18 @@ h3 {
 @media (min-width: 1440px) {
   body {
     display: flex;
-   justify-content: center;
+    justify-content: center;
   }
 
   .container {
-    margin: 13em auto;
+    margin: 12em auto;
     flex-direction: row;
   }
 
   .card {
     flex: 1;
     width: 400px;
-    height: 60vh;
+    height: calc(60vh + 1em);
   }
 
   .card:nth-child(1) {
