@@ -18,7 +18,6 @@ body {
 p {
   color: hsla(0, 0%, 100%, 0.75);
   line-height: 1.8em;
-
   font-size: 1rem;
   font-family: 'Lexend Deca', sans-serif;
   font-weight: 400;
@@ -116,11 +115,9 @@ h3 {
 }
 
 .attribution {
-  bottom: 2em;
-  left: 50%;
   font-size: 11px;
   text-align: center;
-  margin-block: 1em;
+  /* margin-block: 1em; */
 }
 
 .attribution a {
@@ -154,5 +151,6 @@ h3 {
 
   .attribution {
     position: fixed;
+    bottom: 2em;
   }
 }
